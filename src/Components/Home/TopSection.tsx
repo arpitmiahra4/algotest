@@ -25,7 +25,7 @@ const TopSection = () => {
       </Button>
       <Flex alignItems={"center"} gap={5} justifyContent={"center"} mt={3}>
         <Text fontSize={18}>Backend By</Text>
-        <SiBackendless size={18} />
+        <SiBackendless size={18} color="#f05f22"/>
         <Text fontSize={18}>Deepak</Text>
       </Flex>
     </Box>
