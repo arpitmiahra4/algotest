@@ -15,7 +15,7 @@ function App() {
       <center>
         <AllRoutes />
       </center>
-      <footer style={{bottom:0}}>
+      <footer>
         <Footer />
       </footer>
     </div>
